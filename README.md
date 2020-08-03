@@ -22,3 +22,7 @@ A typical confusion about developers is that they’ve all been programming sinc
 ```
 * source.ipynb - the main file in which all the calculation is done
 ```
+
+## Blog post
+
+* [link to my Medium blog post](https://medium.com/@phanchithanh091/this-is-why-you-can-start-your-career-as-a-programmer-right-now-4eb2076cdd79) - I cannot find a way to submit my blog post since it only allow me to submit the link to github
