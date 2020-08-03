@@ -8,11 +8,9 @@ A typical confusion about developers is that they’ve all been programming sinc
 
 ## Technology used
 
-```
 * [Stack Overflow Annual Developer Survey](https://insights.stackoverflow.com/survey) - The data set used
 * [Python Pandas library](https://pandas.pydata.org)
 * [Python Numpy library](https://numpy.org)
-```
 
 ## Summary
 
