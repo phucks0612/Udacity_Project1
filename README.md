@@ -23,6 +23,24 @@ A typical confusion about developers is that they’ve all been programming sinc
 * source.ipynb - the main file in which all the calculation is done
 ```
 
+## CRISP-DM
+
+```
+  * Business Understanding: Find out the relationship between salary and years of coding prior to developers' first jobs.
+  * Data Understanding: Stack Overflow Annual survey: the annual survey for developers with over 150 questions about every thing: their preferred language, salary, age, etc...
+  * Data Preparation: In this project, I drop all the rows with NaN values in these columns: "Salary", "YearsProgram", "YearsCodedJob"
+  * Modeling: plot chart to understand the trend and relationship between developers and their experience
+  * Evaluation: You can read about it in my blog post
+  
+```
+
+## Question answered
+
+```
+  1) What is the distribution of the years of learning to code before first professional(YearsProgramPrior) jobs among developers
+  2) What is the avarage salary and career satisfaction among these developers group by YearsProgramPrior 
+  3) What is the trend of YearsProgramPrior
+```
 ## Blog post
 
-* [link to my Medium blog post](https://medium.com/@phanchithanh091/this-is-why-you-can-start-your-career-as-a-programmer-right-now-4eb2076cdd79) - I cannot find a way to submit my blog post since it only allow me to submit the link to github
+* [link to my Medium blog post](https://medium.com/@phanchithanh091/this-is-why-you-can-start-your-career-as-a-programmer-right-now-4eb2076cdd79)
